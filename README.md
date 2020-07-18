@@ -1,5 +1,1 @@
 # test
-
-Githubテスト
-
-*testmenber
